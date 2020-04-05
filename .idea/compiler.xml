@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="jass-challenge.webapp.jass-tournament-ui.main" target="11" />
+      <module name="jass-challenge.webapp.jass-tournament-ui.test" target="11" />
+      <module name="jass-challenge.webapp.main" target="11" />
+      <module name="jass-challenge.webapp.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
