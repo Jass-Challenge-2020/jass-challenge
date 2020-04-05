@@ -2,6 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="jass-challenge.jass-server.main" target="11" />
+      <module name="jass-challenge.jass-server.test" target="11" />
+      <module name="jass-challenge.jass-service-api.main" target="11" />
+      <module name="jass-challenge.jass-service-api.test" target="11" />
+      <module name="jass-challenge.jass-service.main" target="11" />
+      <module name="jass-challenge.jass-service.test" target="11" />
       <module name="jass-challenge.webapp.jass-tournament-ui.main" target="11" />
       <module name="jass-challenge.webapp.jass-tournament-ui.test" target="11" />
       <module name="jass-challenge.webapp.main" target="11" />

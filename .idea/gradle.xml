@@ -9,9 +9,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/capabilities" />
+            <option value="$PROJECT_DIR$/capabilities/app-capability" />
+            <option value="$PROJECT_DIR$/capabilities/base-capability" />
+            <option value="$PROJECT_DIR$/capabilities/rest-api-capability" />
+            <option value="$PROJECT_DIR$/capabilities/rest-capability" />
+            <option value="$PROJECT_DIR$/capabilities/service-capability" />
             <option value="$PROJECT_DIR$/commons" />
             <option value="$PROJECT_DIR$/commons/common-domain" />
-            <option value="$PROJECT_DIR$/jass-server" />
+            <option value="$PROJECT_DIR$/commons/common-domain-serialization" />
+            <option value="$PROJECT_DIR$/jass-server-app" />
+            <option value="$PROJECT_DIR$/jass-service" />
+            <option value="$PROJECT_DIR$/jass-service/jass-service" />
+            <option value="$PROJECT_DIR$/jass-service/jass-service-api" />
             <option value="$PROJECT_DIR$/webapp" />
             <option value="$PROJECT_DIR$/webapp/jass-tournament-ui" />
           </set>

@@ -13,12 +13,67 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/commons/common-domain-serialization/src/main/kotlin/com/surfshop/common/CommonDomainSerialization.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/commons/common-domain/build.gradle.kts">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/commons/common-domain/src/main/kotlin/ch/zuehlke/jasschallange/TestDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/demo.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jass-server-app/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jass-server-app/src/main/kotlin/com/surfshop/JassServerApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/jass-server/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jass-server/src/main/kotlin/ch/zuehlke/jasschallenge/TestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jass-server/src/main/kotlin/ch/zuehlke/jasschallenge/TestService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jass-service/jass-service-api/src/main/kotlin/com/surfshop/service/waterlevel/TestServiceApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jass-service/jass-service-api/src/main/kotlin/com/surfshop/service/waterlevel/WaterLevelServiceApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jass-service/jass-service/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jass-service/jass-service/src/main/kotlin/ch/zuehlke/jasschallenge/TestService.kt">
           <value>
             <set />
           </value>

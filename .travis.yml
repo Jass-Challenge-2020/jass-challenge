@@ -17,6 +17,7 @@ cache:
     - ./webapp/jass-tournament-ui/node_modules/
 
 script:
+  - ./gradlew test
   - ./gradlew webapp:jass-tournament-ui:npm_run_lint
   - ./gradlew webapp:jass-tournament-ui:npm_run_ci-test
   - ./gradlew webapp:jass-tournament-ui:npm_run_ci-e2e

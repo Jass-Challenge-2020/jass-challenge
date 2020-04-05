@@ -12,5 +12,16 @@ pluginManagement {
 }
 
 include(":commons:common-domain")
-include(":jass-server")
+include(":commons:common-domain-serialization")
+
+include(":capabilities:app-capability")
+include(":capabilities:base-capability")
+include(":capabilities:rest-api-capability")
+include(":capabilities:rest-capability")
+include(":capabilities:service-capability")
+
+include(":jass-service:jass-service")
+include(":jass-service:jass-service-api")
+
+include(":jass-server-app")
 include(":webapp:jass-tournament-ui")
