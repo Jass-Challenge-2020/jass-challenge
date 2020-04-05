@@ -1,0 +1,27 @@
+dist: trusty
+sudo: false
+
+language: node_js
+node_js:
+  - '12.16'
+
+addons:
+  apt:
+    sources:
+      - google-chrome
+    packages:
+      - google-chrome-stable
+
+cache:
+  directories:
+    - ./webapp/jass-tournament-ui/build/npm/
+    - ./webapp/jass-tournament-ui/build/nodejs/
+    - ./webapp/jass-tournament-ui/node_modules/
+
+
+install:
+  - npm install
+
+script:
+  - ./gradlew webapp:jass-tournament-ui:npm_run_test
+  - ./gradlew webapp:jass-tournament-ui:npm_run_e2e
