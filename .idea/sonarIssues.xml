@@ -33,6 +33,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/webapp/jass-tournament-ui/e2e/protractor.ci.conf.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/webapp/jass-tournament-ui/karma.conf.js">
           <value>
             <set />
