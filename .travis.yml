@@ -1,9 +1,9 @@
-dist: trusty
-sudo: false
+language: java
+install: true
 
-language: node_js
-node_js:
-  - '12.16'
+os: linux
+dist: trusty
+jdk: oraclejdk12
 
 addons:
   apt:
@@ -14,13 +14,11 @@ addons:
 
 cache:
   directories:
+    - $HOME/.gradle/caches/
+    - $HOME/.gradle/wrapper/
     - ./webapp/jass-tournament-ui/build/npm/
     - ./webapp/jass-tournament-ui/build/nodejs/
     - ./webapp/jass-tournament-ui/node_modules/
-
-
-install:
-  - npm install
 
 script:
   - ./gradlew webapp:jass-tournament-ui:npm_run_test
