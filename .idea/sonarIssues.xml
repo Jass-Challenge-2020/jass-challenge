@@ -33,6 +33,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/webapp/jass-tournament-ui/karma.conf.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/webapp/jass-tournament-ui/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
